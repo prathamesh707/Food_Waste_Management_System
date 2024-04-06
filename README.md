@@ -2,7 +2,7 @@
 
 # Frontend
 
-Food_Waste_Management_System is a web application for managing leftover food from re.
+Food_Waste_Management_System is a web application for managing leftover food from restaurants, big hotels, events, etc.
 
 ## Features
 
