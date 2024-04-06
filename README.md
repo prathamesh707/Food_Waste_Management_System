@@ -1,4 +1,4 @@
-# Food_Waste_Management_System
+# Food_Waste_Management_System (CODEBITS 2.0)
 
 # Frontend
 
